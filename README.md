@@ -8,6 +8,7 @@ This Repository Holds Basic Sketches for Arduinos and ESP32.
 This Sketch is to use an Arduino to controll a DC Locomotive as a Shuttle between 2 end points
 
 Version V1.07 is the basic version in which the shuttle train just moves from let to right and back without a pause
+
 Version V1.08 is an enhanced version which does not use the delay to pause the sketch it uses a millis function in which the sketch is not interrupted
               in this version the rtain will also wait for 10 seconds at each end to make it more natural.
 
